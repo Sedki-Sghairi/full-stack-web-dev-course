@@ -1,14 +1,9 @@
 # full-stack-web-dev-course-coursera
-
--download bootstrap using npm
--include bootstrap CSS and JS 
--install font-awesome and bootstrap-social
-
-
+# The HONG KONG UNIVERSITY OF SCIENCE AND TECHNOLOGY
 This project is an academic work. 
 ---------------------------------
 
-
+PART-ONE: BOOTSTRAP4/LESS/SASS-frontend
 
 
 
