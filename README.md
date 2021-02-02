@@ -1,6 +1,4 @@
-## full-stack-web-dev-course-coursera
-## The HONG KONG UNIVERSITY OF SCIENCE AND TECHNOLOGY
-This project is an academic work. 
+built during my full-stack-web-dev-course (coursera)
 ---------------------------------
 
 PART-ONE: BOOTSTRAP4/LESS/SASS-frontend
